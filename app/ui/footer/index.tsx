@@ -59,7 +59,7 @@ const ImageHover = ({ data }: { data: IHoverImage[]}) => {
 const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-4 fixed bottom-0 left-0 right-0">
-      <div className="container mx-auto px-4 flex justify-between items-center">
+      <div className="container mr-6 px-4 flex justify-between items-center">
         <div>
           <p>&copy; 2024 @955noicu</p>
         </div>
